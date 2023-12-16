@@ -1,7 +1,7 @@
 #include "latticeSquares.cpp"
 
 int main() {
-   uint32_t n;
+   uint64_t n;
    std::cout << "Input n for sqaure counts. Input 0 to exit.\n";
    std::cin >> n;
    while(n != 0) {
